@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://bennyyuen09.github.io/Company-Website-Demo/static/css/main.ad804fb0.css",
-    "main.js": "https://bennyyuen09.github.io/Company-Website-Demo/static/js/main.59074cb9.js",
+    "main.js": "https://bennyyuen09.github.io/Company-Website-Demo/static/js/main.f240a0fe.js",
     "static/js/787.0d6fc5c8.chunk.js": "https://bennyyuen09.github.io/Company-Website-Demo/static/js/787.0d6fc5c8.chunk.js",
     "static/media/about-hero-image.jpg": "https://bennyyuen09.github.io/Company-Website-Demo/static/media/about-hero-image.82784feaf5eaccb68f23.jpg",
     "static/media/Company_Website_Long_Image_New.png": "https://bennyyuen09.github.io/Company-Website-Demo/static/media/Company_Website_Long_Image_New.0b3435207c5cd178b939.png",
@@ -33,11 +33,11 @@
     "static/media/time-series-data-collection.png": "https://bennyyuen09.github.io/Company-Website-Demo/static/media/time-series-data-collection.4389188f47a3f8ef8484.png",
     "index.html": "https://bennyyuen09.github.io/Company-Website-Demo/index.html",
     "main.ad804fb0.css.map": "https://bennyyuen09.github.io/Company-Website-Demo/static/css/main.ad804fb0.css.map",
-    "main.59074cb9.js.map": "https://bennyyuen09.github.io/Company-Website-Demo/static/js/main.59074cb9.js.map",
+    "main.f240a0fe.js.map": "https://bennyyuen09.github.io/Company-Website-Demo/static/js/main.f240a0fe.js.map",
     "787.0d6fc5c8.chunk.js.map": "https://bennyyuen09.github.io/Company-Website-Demo/static/js/787.0d6fc5c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad804fb0.css",
-    "static/js/main.59074cb9.js"
+    "static/js/main.f240a0fe.js"
   ]
 }
